@@ -1,0 +1,41 @@
+Country Info 2.0
+Build by : Coderomantor
+programmer : Roman ullah (Ai engineer)
+Language used : Python
+
+
+
+
+for feedback and suggestions please check out:
+03109910235
+coderomantor@gmail.com
+www.countryinfo.com 
+
+
+
+
+*************************************************************************************************
+
+Project Description:
+In this project, you will create a Python program that fetches and displays information about a country based on user input. The program will use an API to get real-time data about countries, such as their population, capital, region, and more. This project is aimed at beginner-level students who are looking to practice their Python programming skills, particularly in working with APIs, handling JSON data, and building user-friendly command-line interfaces.
+
+Project Question:
+Create a Python program that asks the user to enter the name of a country and then fetches and displays the following information about the country:
+
+Capital city
+Population
+Area (in square kilometers)
+Region
+Subregion
+Official languages
+The final documentation as well for this project as well.
+Use anything you want many way to do this project it simple and beiginer level project.. Your program should handle errors gracefully, such as when a country is not found or if there are issues with the API request.
+
+Project Learning Outcomes:
+By completing this project, you will learn:
+
+How to make HTTP requests in Python: Using libraries like requests to interact with web APIs.
+How to parse JSON data: Extracting relevant information from JSON responses.
+Basic error handling: Managing exceptions and ensuring the program can handle unexpected situations gracefully.
+Working with user input: Accepting and validating input from users.
+Displaying information in a user-friendly way: Formatting and presenting data neatly in the console.
